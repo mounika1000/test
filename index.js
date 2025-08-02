@@ -1,2 +1,2 @@
-const color="red";
+const color="pink";
 console.log(color);
